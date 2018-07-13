@@ -1,0 +1,29 @@
+{
+  "name": "numbers",
+  "version": "1.0.0",
+  "description": "Super gra w której zgaduje się liczbę",
+  "main": "daniel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maniamaniamania/numbers.git"
+  },
+  "keywords": [
+    "gra",
+    "numery",
+    "node.js",
+    "fajna",
+    "miś"
+  ],
+  "author": "Patrycja Mańka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maniamaniamania/numbers/issues"
+  },
+  "homepage": "https://github.com/maniamaniamania/numbers#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
